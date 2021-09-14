@@ -1,7 +1,7 @@
 module.exports = {
     title: '二黄的三亩一分地',  //标题
-    repo: 'https://github.com/pengych321',  //仓库地址
-    base: '/blog/',  // 配合部署项目
+    repo: 'https://github.com/pengych321/pengych321.github.io.git',  //仓库地址
+    base: '/',  // 配合部署项目
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
