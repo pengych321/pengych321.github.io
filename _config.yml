@@ -1,0 +1,24 @@
+title: 二黄的三亩一分地
+author: yucheng.peng
+email: 282009375@qq.com
+copyright: © 2021 yucheng.peng
+description: > # this means to ignore newlines until "show_excerpts:"
+  程序员一枚，偶尔写点东西
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+lin:
+  date_format: "%b %-d, %Y"
+
+  # path to the author avatar image
+  avatar_path: assets/images/avatar.jpg
+
+  # generate social links
+  # social_links:
+    # github:  jekyll
+
+theme: jekyll-lin
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

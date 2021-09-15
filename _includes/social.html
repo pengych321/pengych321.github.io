@@ -1,0 +1,11 @@
+{%- assign social = site.lin.social_links -%}
+
+<span>
+
+  {%- if social.github -%}
+  <a href="https://github.com/{{ social.github | cgi_escape | escape }}" rel="nofollow">
+    <span class="lin-icon-github"></span>
+  </a>
+  {%- endif -%}
+
+</span>
